@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: gcr.io/psychic-mason-420000/helloworld:latest
+        image: gcr.io/planar-osprey-428902-c5/helloworld:latest
         ports:
         - containerPort: 80
         - containerPort: 443
